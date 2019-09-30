@@ -1,5 +1,5 @@
 {
-    "name": "abdala/omnipay-pagseguro",
+    "name": "brainmangv/omnipay-pagseguro",
     "type": "library",
     "description": "PagSeguro gateway for OmniPay",
     "keywords": [
